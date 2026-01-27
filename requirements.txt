@@ -1,0 +1,13 @@
+fastapi
+fastapi_mcp
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+psycopg[binary,pool]
+pydantic-settings
+dotenv
+pandas
+requests
+asyncio
+httpx
+socket
